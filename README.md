@@ -10,7 +10,7 @@ Caso ocorra um atraso na submissão, a nota final de cada aluno será multiplica
 
 #### Detalhes da Entrega
 
-Apenas uma entrega para o grupo apenas. O código deve estar em repositório no Github criado por um membro do grupo e toda a entrega, inclusive o dataset, deve ser feito o commit no repositório. Dúvidas de como criar um repositório podem ser tiradas [aqui](https://docs.github.com/pt/repositories/creating-and-managing-repositories/quickstart-for-repositories).
+Apenas uma entrega para o grupo apenas. O código deve estar em repositório no Github criado por um membro do grupo com nome **p2-x-calculo-numerico-grupo-y** (x é a letra da prova e y é o número do grupo) e toda a entrega, inclusive o dataset, deve ser feito o commit no repositório. Dúvidas de como criar um repositório podem ser tiradas [aqui](https://docs.github.com/pt/repositories/creating-and-managing-repositories/quickstart-for-repositories).
 
 O Github deve conter os códigos utilizados, comentados e com os raciocínios utilizados para cada questão descritos no formato de comentário e os datasets. As discussões devem estar no início do bloco que resolve a questão e explica o raciocínio. Eventuais comentários genéricos ou a inserção de Figuras pode ser realizada em um arquivo README.md a ser submetido junto com a proposta.
 
