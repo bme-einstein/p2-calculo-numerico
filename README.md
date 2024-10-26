@@ -41,7 +41,7 @@ A ordem ocorrerá na seguinte disposição na terça-feira:
 - 11h30 às 12h00: Grupo 2 - D
 - 12h00 às 12h30: Grupo 8 - D
 
-Não serão realizadas trocas de grupos.
+Não serão realizadas trocas de grupos. Pequenas alterações podem ocorrer por motivos de força maior.
 
 ## Código fornecido
 
